@@ -1,12 +1,11 @@
 <div>
-  <img align="left" src="https://user-images.githubusercontent.com/69374340/209359654-1b3fb42f-4dd3-4e7b-b037-f1ce22dfe224.png" width="270" alt="Logo do serviço de notificação" />
-  
-  <p>
-  Microsserviço que manipula notificações, permitindo enviar, cancelar, ler ou "desler" notificações, além de contar e listar as notificações de determinado destinatário.
-  
-  > Projeto construído no evento Ignite Lab de Node (oferecido pela RocketSeat). :rocket:
-  </p>
+  <img align="left" src="https://user-images.githubusercontent.com/69374340/209359654-1b3fb42f-4dd3-4e7b-b037-f1ce22dfe224.png" width="240" alt="Logo do serviço de notificação" />
+ 
+  <p>Microsserviço que manipula notificações, permitindo enviar, cancelar, ler ou "desler" notificações, além de contar e listar as notificações de determinado destinatário.</p>
 </div>
+<br>
+
+> Projeto construído no evento Ignite Lab de Node (oferecido pela RocketSeat). :rocket:
 
 <span id="tecs">
 
